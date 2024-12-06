@@ -1,0 +1,18 @@
+*{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body{
+    padding: 2em;
+    margin: 2em;
+}
+.cvContent{
+    border: 2px solid black;
+    padding: 2em;
+    margin: 2em;
+}
+h3{
+    color: rgb(47, 255, 47);
+}
+span{
+    color: rgb(28, 153, 211);
+}
